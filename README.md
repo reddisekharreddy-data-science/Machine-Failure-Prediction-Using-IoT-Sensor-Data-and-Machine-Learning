@@ -177,15 +177,15 @@ This indicates a high probability of machine failure.
 ## Project Structure
 Machine-Failure-Prediction
 │
-├── data
-│ └── ai4i2020.csv
+
+│── ai4i2020.csv
 │
-├── notebooks
-│ └── IOT.ipynb
+├── IOT.ipynb
+│ 
 │
-├── models
-│ ├── machine_failure_model.pkl
-│ └── scaler.pkl
+├── machine_failure_model.pkl
+├── scaler.pkl
+│
 │
 └── README.md
 
